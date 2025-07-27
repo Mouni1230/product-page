@@ -18,9 +18,3 @@ A responsive, eco-conscious product page designed to showcase stylish wool sneak
 - Flexbox layout
 
 ## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/wool-runners-page.git
-cd wool-runners-page
